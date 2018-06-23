@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Hero.cpp
+  Demon.cpp
+  Generating Code...
+  Compiling...
+  CharacterFactory.cpp
+  Generating Code...
+c:\users\stefa\desktop\characters\characters\characterfactory.cpp(17): warning C4715: 'CharacterFactory::createCharacter': not all control paths return a value
+  Characters.vcxproj -> C:\Users\stefa\Desktop\Characters\Debug\Characters.exe
+  Characters.vcxproj -> C:\Users\stefa\Desktop\Characters\Debug\Characters.pdb (Full PDB)
